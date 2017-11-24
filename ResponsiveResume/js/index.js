@@ -1,4 +1,4 @@
-// Some code thanks to @chrisgannon
+// Some code.
 
 var select = function(s) {
   return document.querySelector(s);
